@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/VenomJD/VenomJD/blob/main/banner.png" alt="Jean Melgar Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Jean Melgar</h1>
 <h3 align="center">Full Stack Developer | Data Analyst | Cloud Integrator</h3>
 
@@ -6,44 +10,57 @@
 🎯 **About Me**
 
 I’m a Full Stack Developer with a strong foundation in React, Next.js, Node.js, and Python.  
-I have experience building scalable web applications, data analysis tools, and cloud-integrated systems for real-world impact — especially in underserved communities.
+I enjoy creating scalable applications and data-driven solutions, and I’m passionate about leveraging technology to solve real-world problems — especially in underserved communities.
 
 ---
 
-🛠 **Tech Stack & Interests**
+🛠️ **Tech Stack & Tools**
 
-- **Frontend:** React · Next.js · Tailwind CSS  
-- **Backend:** Node.js · Express · REST APIs  
-- **Databases:** MongoDB · SQL  
-- **Data Science:** Python · Pandas · Matplotlib  
-- **Cloud & DevOps:** AWS · Supabase · Vercel
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas-blue?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
 📈 **Currently Working On**
 
-- 🩺 *A medical appointment and record system* for remote communities in Darién, Panama  
-- 📊 *Data visualization dashboards* using Python and JavaScript  
-- ☁️ *Cloud-native integrations* with Supabase and AWS
+- 🩺 *Medical appointment system for rural communities (Darién, Panama)*  
+- 📊 *Data dashboards with Python and JS*  
+- ☁️ *Serverless and cloud-native apps using AWS & Supabase*
 
 ---
 
-📌 **Portfolio & Projects**
+🚀 **Portfolio & Featured Projects**
 
-🧪 Explore my work here:  
 🔗 [🌐 My Portfolio](https://portfolio-two-gamma-92.vercel.app/#Portofolio)
 
-📂 Selected Projects:
-- **React-Practice1** – React fundamentals, routing, and hooks  
-- **NutriVac-Darien** – Serverless health platform for rural areas  
-- **API Template** – Express.js + MongoDB RESTful API starter  
+- **React-Practice1** – React fundamentals + routing & hooks  
+- **NutriVac-Darien** – Serverless health platform  
+- **API Template** – Express.js + MongoDB RESTful API kit
 
 ---
 
 📫 **Let’s Connect**
 
-<a href="mailto:venom.jd@gmail.com"><img src="https://img.shields.io/badge/Gmail-venom.jd@gmail.com-red?style=flat-square&logo=gmail" /></a>  
-<a href="https://portfolio-two-gamma-92.vercel.app/#Portofolio"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-blueviolet?style=flat-square&logo=vercel" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jean-melgar-6bb497168/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Melgar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:venom.jd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-venom.jd@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://portfolio-two-gamma-92.vercel.app/#Portofolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
