@@ -54,8 +54,8 @@ I enjoy creating scalable applications and data-driven solutions, and I’m pass
   <a href="https://www.linkedin.com/in/jean-melgar-6bb497168/">
     <img src="https://img.shields.io/badge/LinkedIn-Jean%20Melgar-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:jeaen041519@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-venom.jd@gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:jean041519@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jean041519@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://portfolio-two-gamma-92.vercel.app/#Portofolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" />
