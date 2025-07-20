@@ -32,9 +32,9 @@ I enjoy creating scalable applications and data-driven solutions, and I’m pass
 
 📈 **Currently Working On**
 
-- 🩺 *Medical appointment system for rural communities (Darién, Panama)*  
-- 📊 *Data dashboards with Python and JS*  
-- ☁️ *Serverless and cloud-native apps using AWS & Supabase*
+- 🩺 *Prediction website for people with hypertension*  
+- 📊 *N8N Automation Model for answering calls and responding to WhatsApp messages*  
+- ☁️ *Serverless and cloud-native apps using AWS *
 
 ---
 
@@ -43,8 +43,8 @@ I enjoy creating scalable applications and data-driven solutions, and I’m pass
 🔗 [🌐 My Portfolio](https://portfolio-two-gamma-92.vercel.app/#Portofolio)
 
 - **React-Practice1** – React fundamentals + routing & hooks  
-- **NutriVac-Darien** – Serverless health platform  
-- **API Template** – Express.js + MongoDB RESTful API kit
+- **everyone-can-write-blogs** – Blog Web application using AWS S3 bucket, IAM, MongoDB Cloud, FirebaseAuth , NextJS 
+
 
 ---
 
@@ -54,7 +54,7 @@ I enjoy creating scalable applications and data-driven solutions, and I’m pass
   <a href="https://www.linkedin.com/in/jean-melgar-6bb497168/">
     <img src="https://img.shields.io/badge/LinkedIn-Jean%20Melgar-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:venom.jd@gmail.com">
+  <a href="mailto:jeaen041519@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-venom.jd@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://portfolio-two-gamma-92.vercel.app/#Portofolio">
